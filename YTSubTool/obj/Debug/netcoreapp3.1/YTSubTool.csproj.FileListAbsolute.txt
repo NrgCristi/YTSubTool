@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.exe
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.deps.json
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.runtimeconfig.json
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.runtimeconfig.dev.json
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.dll
+C:\Users\User\source\repos\YTSubTool\YTSubTool\bin\Debug\netcoreapp3.1\YTSubTool.pdb
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.Form1.resources
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.Properties.Resources.resources
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.csproj.GenerateResource.cache
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.AssemblyInfo.cs
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.dll
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.pdb
+C:\Users\User\source\repos\YTSubTool\YTSubTool\obj\Debug\netcoreapp3.1\YTSubTool.genruntimeconfig.cache
